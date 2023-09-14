@@ -1,0 +1,15 @@
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\bin\Debug\net6.0\calcjoraly.exe
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\bin\Debug\net6.0\calcjoraly.deps.json
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\bin\Debug\net6.0\calcjoraly.runtimeconfig.json
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\bin\Debug\net6.0\calcjoraly.dll
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\bin\Debug\net6.0\calcjoraly.pdb
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.csproj.AssemblyReference.cache
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.AssemblyInfoInputs.cache
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.AssemblyInfo.cs
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.dll
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\refint\calcjoraly.dll
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.pdb
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\calcjoraly.genruntimeconfig.cache
+C:\Users\Artyom\source\repos\calcjoraly\calcjoraly\obj\Debug\net6.0\ref\calcjoraly.dll
